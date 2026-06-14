@@ -4,4 +4,4 @@
 
 <h1 align="center">XealOS</h1>
 
-<h1 style="text-decoration:none font-size:20%;">What is XealOS?</h1>
+<h1 style="text-decoration:none">What is XealOS?</h1>
