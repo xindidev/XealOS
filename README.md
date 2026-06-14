@@ -2,6 +2,6 @@
   <img src="Images/seallogowithblackbg.png" />
 </p>
 
-<h1 align="center">XealOS</h1>
+<p align="center" font-size:20px>XealOS<p>
 
 <h1 style="text-decoration:none">What is XealOS?</h1>
