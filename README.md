@@ -4,5 +4,4 @@
 
 <h1 align="center">XealOS</h1>
 
-# What is XealOS?
-##
+<h style="text-decoration:none">What is XealOS?</h>
