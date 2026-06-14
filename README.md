@@ -1,5 +1,1 @@
-<div>
-  <center>
-    ![](Images/seallogowithblackbg.png)
-  </center>
-</div>
+<div><center>![](master/Images/seallogowithblackbg.png)</center></div>
