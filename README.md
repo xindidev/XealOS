@@ -1,1 +1,1 @@
-<div><center>![XealOS Logo](master/Images/seallogowithblackbg.png)</center></div>
+![XealOS Logo](master/Images/seallogowithblackbg.png)
