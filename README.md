@@ -1,1 +1,1 @@
-![XealOS Logo](master/Images/seallogowithblackbg.png)
+![XealOS Logo](/Images/seallogowithblackbg.png)
