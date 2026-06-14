@@ -3,5 +3,7 @@
 </p>
 
 <center>
-#XealOS
+    <h>
+      XealOS
+    </h>
 </center>
