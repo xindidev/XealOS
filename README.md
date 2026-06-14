@@ -2,8 +2,6 @@
   <img src="Images/seallogowithblackbg.png" />
 </p>
 
-<center>
-    <h>
-      XealOS
-    </h>
-</center>
+<p align="center">
+  <h1>XealOS</h1>
+</p>
