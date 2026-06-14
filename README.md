@@ -1,1 +1,3 @@
-![XealOS Logo](/Images/seallogowithblackbg.png)
+<p align="center">
+  <img src="Images/seallogowithblackbg.png" />
+</p>
