@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/Images/Logo.png" />
+  <img src="https://i.ibb.co/MkkjY9Q9/Logo.png" />
   
   # XealOS
 </div>
