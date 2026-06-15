@@ -5,10 +5,13 @@
   ### An Open-Source Privacy, Stability and Performance Focused Operating System
   ![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)
   ![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/xindidev/XealOS/master?style=for-the-badge&color=orange&label=commits)
+  ![Arch](https://img.shields.io/badge/Architecture-x86__64-blueviolet?style=for-the-badge)
+  ![Built With Bash](https://img.shields.io/badge/Built%20With-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Base OS](https://img.shields.io/badge/Base-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Init](https://img.shields.io/badge/Init-Systemd-darkgreen?style=for-the-badge)
 </div>
 
-# What is XealOS?
+
 <p align="center">
     <b>XealOS</b> is an Open-Source Linux distribution engineered with a strict focus on stability, privacy, and performance. While some modern distributions have increasingly become weighed down by pre-installed bloatware, heavy background telemetry, and corporate data collection, XealOS takes the exact opposite approach. Designed to be a pristine and lightweight daily driver, it eliminates tracking and unnecessary background services. Unlike standard desktop operating systems that constantly phone home and consume system resources with unneeded features, XealOS remains entirely silent. It delivers the seamless usability you would expect from a mainstream OS, but redirects all that computing power back to your actual workloads—ensuring your system runs flawlessly and your personal data remains strictly your own.
 </p>
