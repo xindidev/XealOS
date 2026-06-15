@@ -29,4 +29,7 @@
 and much more!
 
 # Present Status of XealOS
-The OS is currently under development with a Beta release on the horizon. Since this is currently a one man project with the developer having no intentions of acquiring any large assistance or help with the project (for now), it is most likely that XealOS will take quite a while before it's ready to be released to the world. I will continue to let everyone know all the news and updates that are done to the OS. Anyone can check the commits on this repository if they want to get any detailed idea of the changes done to the OS with every passing day.
+The OS is currently under development with a Beta release on the horizon. It is most likely that XealOS will take quite a while before it's ready to be released to the world. I will continue to let everyone know all the news and updates that are done to the OS. Anyone can check the commits on this repository if they want to get any detailed idea of the changes done to the OS with every passing day. Thank you very much to Nico, Mystic, NightSariel, Sonal, GamerLego and everyone who helped keep me and this project alive even during the toughest of times ❤️.
+
+> [!NOTE]
+> As of right-now, I as the developer, am not looking forward to any contributions from other developers or users to this project (since it is still in it's primal stages). After confirmed release, this decision will be re-decided.
