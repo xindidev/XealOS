@@ -3,7 +3,7 @@
   
   # XealOS
   ### An Open-Source Privacy, Stability and Performance Focused Operating System
-  ![GitHub License](https://img.shields.io/github/license/xindidev/XealOS?style=for-the-badge&color=blue)
+  ![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)
   ![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/xindidev/XealOS/master?style=for-the-badge&color=orange&label=commits)
   ![Base OS](https://img.shields.io/badge/Base-Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 </div>
