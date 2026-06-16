@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/MkkjY9Q9/Logo.png" />
   
   # XealOS
-  ### An Open-Source Privacy, Stability and Performance Focused Operating System
+  ### An Open-Source Privacy, Stability and Performance Focused Linux Distribution
   ![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)
   ![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/xindidev/XealOS/master?style=for-the-badge&color=orange&label=commits)
   ![Arch](https://img.shields.io/badge/Architecture-x86__64-blueviolet?style=for-the-badge)
