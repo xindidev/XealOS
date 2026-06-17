@@ -1,7 +1,7 @@
 # config/binary - options for live-build(7), binary stage
 
 # Set image type
-LB_IMAGE_TYPE="iso"
+LB_IMAGE_TYPE="iso-hybrid"
 
 # Set image filesystem
 LB_BINARY_FILESYSTEM="fat32"
@@ -10,7 +10,7 @@ LB_BINARY_FILESYSTEM="fat32"
 LB_APT_INDICES="false"
 
 # Set boot parameters
-LB_BOOTAPPEND_LIVE="boot=live components quiet splash"
+LB_BOOTAPPEND_LIVE="boot=live components quiet splash live-config.user-fullname=XealOS"
 
 # Set boot parameters
 LB_BOOTAPPEND_INSTALL=""
@@ -22,10 +22,10 @@ LB_BOOTAPPEND_LIVE_FAILSAFE="boot=live components memtest noapic noapm nodma nom
 LB_BOOTLOADER_BIOS="grub-pc"
 
 # Set EFI bootloader
-LB_BOOTLOADER_EFI=""
+LB_BOOTLOADER_EFI="grub-efi"
 
 # Set bootloaders
-LB_BOOTLOADERS="grub-pc"
+LB_BOOTLOADERS="grub-pc grub-efi"
 
 # Set checksums
 LB_CHECKSUMS="sha256"
