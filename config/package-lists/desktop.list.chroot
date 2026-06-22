@@ -1,23 +1,68 @@
-# --- Core & Terminal ---
-task-xfce-desktop
+# --- Core ---
+lightdm
+lightdm-gtk-greeter
+xfce4
 sudo
+task-desktop
+tasksel
 fastfetch
 fonts-inter
 
-# --- Hardware & Firmware ---
+# --- Necessary Software ---
+xfce4-terminal
+thunar
+vlc
+mousepad
+xfburn
+xfce4-dict
+atril
+ristretto
+synaptic
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+
+# --- Hardware & Firmware/Utility ---
 firmware-linux
 firmware-linux-nonfree
 network-manager-gnome
+nm-connection-editor
+network-manager-applet
 user-setup
+blueman
+pavucontrol
+network-manager-gnome
+xfce4-notifyd
+xfce4-screenshooter
+xfce4-taskmanager
+system-config-printer
 xfce4-power-manager
 xfce4-pulseaudio-plugin
+xfce4-battery-plugin
+xfce4-clipman-plugin
+xfce4-cpufreq-plugin
+xfce4-cpugraph-plugin
+xfce4-datetime-plugin
+xfce4-diskperf-plugin
+xfce4-fsguard-plugin
+xfce4-genmon-plugin
+xfce4-netload-plugin
+xfce4-notes-plugin
+xfce4-places-plugin
+xfce4-sensors-plugin
+xfce4-smartbookmark-plugin
+xfce4-systemload-plugin
+xfce4-timer-plugin
+xfce4-verve-plugin
+xfce4-wavelan-plugin
+xfce4-weather-plugin
+xfce4-xkb-plugin
+thunar-archive-plugin
+thunar-media-tags-plugin
+xfce4-whiskermenu-plugin
 
 # --- Theme Stuff ---
-xfce4-whiskermenu-plugin
-papirus-icon-theme
 fonts-dejavu
-adwaita-icon-theme-full
-
 
 # --- Browser ---
 firefox-esr
