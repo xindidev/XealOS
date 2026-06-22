@@ -9,6 +9,19 @@ rm -rf /usr/share/icons/desktop-base
 rm -rf /usr/share/images/vendor-logos
 rm -f /usr/share/pixmaps/debian-logo.png
 rm -f /usr/share/pixmaps/debian-swirl.png
+rm -f /etc/skel/.face
+rm -f /etc/skel/.face.icon
 
 # 3. Remove Debian-specific documentation links from the menu
 rm -f /usr/share/applications/debian-help.desktop
+
+# Block accounts-daemon / lightdm from recreating them automatically
+if [ -d /var/lib/AccountsService/users ]; then
+    rm -rf /var/lib/AccountsService/users/*
+fi
+
+# Remove some fallback icons XFCE makes
+rm -f /usr/share/pixmaps/faces/*
+rm -f /root/.face /root/.face.icon
+
+exit 0
